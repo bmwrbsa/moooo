@@ -1,7 +1,24 @@
-public class onee {
+public class onee extends JFrame {
     public static void main(String[] args) {
-        int one= 5;
-        System.out.println(one);
+    onee one = new onee();
+     
+   
+      
+  
+
+
+    public onee() {
+        JFrame frame = new JFrame();
+
+        // This creates a new window
+        this.setSize(500, 500);
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setLocationRelativeTo(null);
+        this.setResizable(false);
+        this.setLayout(null);
+
+
+  
 
     }
 }
