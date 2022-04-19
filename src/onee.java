@@ -8,7 +8,7 @@ public class onee extends JFrame {
 
 
     public onee() {
-        JFrame frame = new JFrame();
+     
 
         // This creates a new window
         this.setSize(500, 500);
