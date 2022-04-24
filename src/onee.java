@@ -5,6 +5,8 @@ public class onee extends JFrame {
         int a = 5;
         int b =10;
         System.out.println(a+b);
+        System.out.println("היי משה מה קורה למדתי איך להשתמש בגיט ביחד עם צווות אני ישב יללמד אותך ");
+
     }
     onee one = new onee();
 
